@@ -10,7 +10,7 @@ DB_PATH="db/database.db"
 OUTPUT_DIR="data"
 
 # Inputs
-LEGISLATURA_NUM=$1
+LEGISLATURA_NUM=13
 
 # Flags
 DOWNLOAD_PLENO="true"    # true, false
