@@ -1,4 +1,4 @@
-**/logs/
-**/data/
+logs/
+data
+db/database*
 **/__pycache__
-**/data/
