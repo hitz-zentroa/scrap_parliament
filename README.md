@@ -181,6 +181,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+## Acknowledgements
+This work has been partially supported by the Basque Government (IKER-GAITU project), the Spanish Ministry for Digital Transformation and of Civil Service, and the EU-funded NextGenerationEU Recovery, Transformation and Resilience Plan (ILENIA project, 2022/TL-22/00215335 & ALIA).
+
 ## Support
 
 For issues or questions, contact: **[asierherranzv@gmail.com](mailto:asierherranzv@gmail.com)**
